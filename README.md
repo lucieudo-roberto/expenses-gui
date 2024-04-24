@@ -26,12 +26,10 @@ Este aplicativo permite aos usuários adicionar despesas, categorizá-las e visu
 - **Classe App:** Classe principal que controla a lógica de negócios e a interação com a interface gráfica.
 
 ### Demostração
-<video width="320" height="480" controls>
-    <source src="movie/video.mp4">
-</video>
-
-
+<center>
+<img src="gif.gif"/>
+</center>
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes.
+Este projeto está licenciado sob a Licença MIT
